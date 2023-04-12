@@ -41,7 +41,7 @@ public class Config {
 		TwitchBot bot = new TwitchBot();
 		bot.setVerbose(true);
 		
-		connect(bot, "irc.twitch.tv", 6667, "oauth:4mxremgo1jgp09lv4lb6hdfokxf1do");
+		connect(bot, "irc.twitch.tv", 6667, "oauth:");
 
 	}
 
