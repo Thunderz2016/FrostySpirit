@@ -1,0 +1,2 @@
+windows|D:/Frosty_SaveGuard/
+linux|/home/thunderz/Frosty_SaveGuard/
