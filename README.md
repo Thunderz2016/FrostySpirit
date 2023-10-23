@@ -8,5 +8,9 @@ Formatted random code generation based on # of digits requested (1234 5678 for 8
 Rock-paper-scissors mini-game with persistent score tracking for individual users
 Profile-based game save data backup command 
 
-See Frosty in action:
-![image](https://github.com/Thunderz2016/FrostySpirit/assets/24950670/59ab08e9-b8fe-4604-a882-2a1c8dcb152f)
+Planned features with no ETA:
+A real GUI
+Twitch Integration
+
+![image](https://github.com/Thunderz2016/FrostySpirit/assets/24950670/8e5b8b9f-8f89-40a9-9042-ad99ac7d7dcc)
+
